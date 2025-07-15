@@ -9,6 +9,13 @@ from sentence_transformers import SentenceTransformer
 app = Flask(__name__)
 CORS(app)
 
+# Add custom headers with DYMRA TECH branding
+@app.after_request
+def add_header(response):
+    response.headers['X-Powered-By'] = 'DYMRA TECH'
+    response.headers['X-Application'] = 'HS Code Classifier'
+    return response
+
 # --- Improved Path Handling and Model/Data Loading ---
 try:
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -27,6 +34,33 @@ except Exception as e:
     clf = None
     bert_model = None
     hs_code_to_name = {}
+
+@app.route('/')
+def home():
+    return jsonify({
+        "message": "HS Code Classifier API",
+        "company": "DYMRA TECH",
+        "version": "1.0.0",
+        "endpoints": {
+            "predict": "/predict",
+            "bulk_predict": "/bulk_predict"
+        }
+    })
+
+@app.route('/logo')
+def logo():
+    """Return logo information"""
+    return jsonify({
+        "company": "DYMRA TECH",
+        "logo": {
+            "type": "circuit_board_network",
+            "colors": {
+                "background": "blue_gradient",
+                "elements": "white"
+            },
+            "description": "Stylized circuit board with connected nodes representing technology and connectivity"
+        }
+    })
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -58,7 +92,8 @@ def predict():
         return jsonify({
             'predicted_hs_code': str(prediction),
             'predicted_hs_category': category,
-            'confidence': round(float(confidence), 2)
+            'confidence': round(float(confidence), 2),
+            'powered_by': 'DYMRA TECH'
         })
 
     except Exception as e:
@@ -81,7 +116,14 @@ def bulk_predict():
         df['predicted_hs_code'] = clf.classes_[np.argmax(probabilities, axis=1)]
         df['confidence'] = np.max(probabilities, axis=1).round(2)
         df['predicted_hs_category'] = df['predicted_hs_code'].astype(str).map(hs_code_to_name).fillna("Unknown Category")
-        return jsonify(df.to_dict(orient='records'))
+        
+        # Add metadata to response
+        results = df.to_dict(orient='records')
+        return jsonify({
+            'results': results,
+            'total_predictions': len(results),
+            'powered_by': 'DYMRA TECH'
+        })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 

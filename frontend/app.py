@@ -3,6 +3,71 @@ import requests
 import pandas as pd
 import os
 
+# Custom CSS for the logo
+st.markdown("""
+<style>
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #0066cc, #004499);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo-icon {
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+}
+
+.logo-text {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.circuit-node {
+    fill: white;
+    stroke: white;
+    stroke-width: 2;
+}
+
+.circuit-line {
+    stroke: white;
+    stroke-width: 3;
+    stroke-linecap: round;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# Logo HTML
+logo_html = """
+<div class="logo-container">
+    <svg class="logo-icon" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <!-- Circuit board nodes -->
+        <circle class="circuit-node" cx="30" cy="15" r="4"/>
+        <circle class="circuit-node" cx="20" cy="45" r="4"/>
+        <circle class="circuit-node" cx="40" cy="45" r="4"/>
+        <circle class="circuit-node" cx="30" cy="8" r="2"/>
+        
+        <!-- Circuit connections -->
+        <line class="circuit-line" x1="30" y1="19" x2="30" y2="35"/>
+        <line class="circuit-line" x1="30" y1="35" x2="20" y2="41"/>
+        <line class="circuit-line" x1="30" y1="35" x2="40" y2="41"/>
+        <line class="circuit-line" x1="30" y1="11" x2="30" y2="6"/>
+    </svg>
+    <div class="logo-text">DYMRA TECH</div>
+</div>
+"""
+
+# Display the logo
+st.markdown(logo_html, unsafe_allow_html=True)
+
 st.title("HS Code Classifier")
 
 # Use environment variables for backend URL for flexibility
@@ -21,6 +86,11 @@ if st.button("Predict"):
                 st.success(f"Predicted HS Code: {data['predicted_hs_code']}")
                 st.info(f"Product Category: {data['predicted_hs_category']}")
                 st.info(f"Confidence: {data['confidence']:.2f}")
+                
+                # Show powered by info if available
+                if 'powered_by' in data:
+                    st.info(f"Powered by {data['powered_by']}")
+                
                 # Warn if input is too generic
                 if len(desc.strip().split()) < 2:
                     st.warning("Please enter a more detailed product description for better results (e.g., 'plastic toy car', 'plastic water bottle').")
@@ -43,8 +113,22 @@ if uploaded_file:
         res = requests.post(f"{BACKEND_URL}/bulk_predict", files=files)
         
         if res.ok:
-            # The backend now returns a list of JSON objects
-            results_data = res.json()
+            # Handle new API response format
+            response_data = res.json()
+            
+            # Check if response has the new format with 'results' key
+            if 'results' in response_data:
+                results_data = response_data['results']
+                total_predictions = response_data.get('total_predictions', len(results_data))
+                st.success(f"✅ Successfully processed {total_predictions} predictions")
+                
+                # Show powered by info if available
+                if 'powered_by' in response_data:
+                    st.info(f"Powered by {response_data['powered_by']}")
+            else:
+                # Fallback for old format
+                results_data = response_data
+            
             df = pd.DataFrame(results_data)
             
             # Reorder columns for better presentation
