@@ -23,4 +23,890 @@ description,hs_code
 "Aspirin tablets, 100 count",30
 "Leather sofa, three-seater",94
 "Men's wrist watch with metal band",91
-"Dried pasta, 500g spaghetti",19 
+"Dried pasta, 500g spaghetti",19
+"iPhone 15 Pro Max smartphone 256GB",85
+"Samsung Galaxy S24 Ultra 512GB",85
+"MacBook Pro 16-inch M3 Pro",84
+"Dell XPS 13 laptop",84
+"Apple AirPods Pro wireless earbuds",85
+"Sony WH-1000XM5 headphones",85
+"Bose QuietComfort 45 headphones",85
+"iPad Pro 12.9 inch 5th generation",85
+"Microsoft Surface Pro 9",84
+"Gaming laptop RTX 4080",84
+"4K Ultra HD Smart TV 65 inch",85
+"OLED TV 77 inch LG",85
+"PlayStation 5 console",85
+"Xbox Series X gaming console",85
+"Nintendo Switch OLED",85
+"DJI Mavic 3 drone",85
+"GoPro Hero 11 camera",85
+"Canon EOS R5 mirrorless camera",85
+"Sony A7 IV camera",85
+"iPhone 14 Pro 128GB",85
+"Google Pixel 8 Pro",85
+"OnePlus 11 smartphone",85
+"Men's cotton polo shirt",61
+"Women's silk blouse",61
+"Denim jeans blue",61
+"Wool sweater winter",61
+"Leather jacket black",61
+"Running shoes Nike",64
+"Adidas sneakers white",64
+"High heels women's",64
+"Boots leather winter",64
+"Sandals summer beach",64
+"Leather wallet brown",42
+"Handbag designer",42
+"Backpack laptop",42
+"Purse leather",42
+"Briefcase leather",42
+"Wooden dining table",94
+"Office chair ergonomic",94
+"Bookshelf wooden",94
+"Bed frame queen",94
+"Desk wooden",94
+"Coffee table glass",94
+"Sofa leather 3-seater",94
+"Armchair fabric",94
+"Wardrobe wooden",94
+"Kitchen cabinet",94
+"Plastic toy cars",95
+"Board game Monopoly",95
+"Puzzle 1000 pieces",95
+"Teddy bear stuffed",95
+"LEGO building blocks",95
+"Action figures",95
+"Barbie doll",95
+"Remote control car",95
+"Video game controller",95
+"Fresh milk 1L",04
+"Cheese cheddar block",04
+"Butter unsalted",04
+"Yogurt Greek",04
+"Cream heavy whipping",04
+"Eggs fresh dozen",04
+"Live chicken",01
+"Live cow",01
+"Live pig",01
+"Live sheep",01
+"Live horse",01
+"Beef steak fresh",02
+"Pork chops",02
+"Lamb meat",02
+"Chicken breast",02
+"Turkey whole",02
+"Salmon fillet fresh",03
+"Tuna fish fresh",03
+"Shrimp frozen",03
+"Crab meat",03
+"Lobster live",03
+"Fresh tomatoes",07
+"Carrots organic",07
+"Broccoli fresh",07
+"Spinach leaves",07
+"Onions red",07
+"Potatoes russet",07
+"Lettuce iceberg",07
+"Cucumber fresh",07
+"Bell peppers",07
+"Fresh bananas",08
+"Oranges navel",08
+"Apples red delicious",08
+"Grapes green",08
+"Strawberries fresh",08
+"Blueberries organic",08
+"Pineapple fresh",08
+"Mango ripe",08
+"Avocado hass",08
+"Cashew nuts raw",08
+"Almonds raw",08
+"Walnuts shelled",08
+"Pistachios roasted",08
+"Coffee beans arabica",09
+"Green tea leaves",09
+"Black tea bags",09
+"Pepper black whole",09
+"Cinnamon sticks",09
+"Vanilla beans",09
+"Salt table",25
+"Sugar white",17
+"Flour all-purpose",11
+"Rice white long grain",10
+"Pasta spaghetti",19
+"Bread whole wheat",19
+"Cereal corn flakes",19
+"Olive oil extra virgin",15
+"Vegetable oil",15
+"Coconut oil",15
+"Sunflower oil",15
+"Wine red bottle",22
+"Beer lager",22
+"Whiskey scotch",22
+"Vodka premium",22
+"Juice orange",22
+"Water mineral",22
+"Soda cola",22
+"Energy drink",22
+"Medicine aspirin",30
+"Antibiotics tablets",30
+"Vitamins multivitamin",30
+"Pain reliever",30
+"Cough syrup",30
+"Bandages adhesive",30
+"First aid kit",30
+"Rubber gloves",40
+"Rubber bands",40
+"Tire car",40
+"Rubber mat",40
+"Paper printer",48
+"Notebook spiral",49
+"Magazine fashion",49
+"Newspaper daily",49
+"Textbook college",49
+"Cotton fabric",52
+"Silk fabric",50
+"Wool fabric",51
+"Polyester fabric",54
+"Bed sheets cotton",63
+"Towels cotton",63
+"Curtains fabric",63
+"Carpet wool",57
+"Rug handmade",57
+"Blanket wool",63
+"Pillow cotton",94
+"Ceramic plates",69
+"Glass cups",70
+"Silverware set",82
+"Kitchen utensils",82
+"Pots pans set",82
+"Knife chef",82
+"Scissors office",82
+"Hammer tool",82
+"Screwdriver set",82
+"Drill electric",84
+"Saw hand",82
+"Paint white",32
+"Paint brush",96
+"Glue adhesive",35
+"Tape masking",96
+"Paper towels",48
+"Toilet paper",48
+"Shampoo bottle",34
+"Soap bar",34
+"Toothpaste tube",34
+"Deodorant stick",34
+"Perfume bottle",33
+"Makeup foundation",33
+"Lipstick red",33
+"Eye shadow palette",33
+"Mirror bathroom",70
+"Clock wall",91
+"Watch digital",91
+"Watch analog",91
+"Jewelry necklace",71
+"Ring gold",71
+"Earrings silver",71
+"Bracelet gold",71
+"Umbrella rain",66
+"Walking stick",66
+"Feathers decorative",67
+"Stone marble",68
+"Cement bag",25
+"Plaster material",68
+"Ceramic tiles",69
+"Glass window",70
+"Glass bottle",70
+"Precious stones",71
+"Gold bars",71
+"Silver coins",71
+"Iron ore",72
+"Steel beams",72
+"Copper wire",74
+"Aluminum foil",76
+"Lead pipes",78
+"Zinc coating",79
+"Tin cans",80
+"Plastic bottles",39
+"Plastic bags",39
+"Plastic containers",39
+"Plastic toys",95
+"Plastic furniture",94
+"Plastic pipes",39
+"Plastic film",39
+"Plastic sheets",39
+"Plastic cups",39
+"Plastic plates",39
+"Plastic utensils",39
+"Plastic packaging",39
+"Plastic automotive parts",87
+"Plastic electronic components",85
+"Plastic medical devices",90
+"Plastic construction materials",39
+"Plastic agricultural products",39
+"Plastic household items",39
+"Plastic industrial equipment",84
+"Plastic sports equipment",95
+"Plastic musical instruments",92
+"Plastic art supplies",96
+"Plastic office supplies",96
+"Plastic kitchen items",82
+"Plastic bathroom items",39
+"Plastic garden items",39
+"Plastic pet supplies",95
+"Plastic baby products",95
+"Plastic beauty products",34
+"Plastic cleaning supplies",34
+"Plastic storage solutions",39
+"Plastic lighting fixtures",85
+"Plastic automotive accessories",87
+"Plastic marine equipment",89
+"Plastic aerospace components",88
+"Plastic military equipment",93
+"Plastic scientific instruments",90
+"Plastic photographic equipment",37
+"Plastic optical instruments",90
+"Plastic measuring instruments",90
+"Plastic control instruments",90
+"Plastic medical instruments",90
+"Plastic dental instruments",90
+"Plastic veterinary instruments",90
+"Plastic surgical instruments",90
+"Plastic laboratory equipment",90
+"Plastic testing equipment",90
+"Plastic calibration instruments",90
+"Plastic surveying equipment",90
+"Plastic meteorological instruments",90
+"Plastic hydrological instruments",90
+"Plastic geological instruments",90
+"Plastic geophysical instruments",90
+"Plastic oceanographic instruments",90
+"Plastic meteorological instruments",90
+"Plastic astronomical instruments",90
+"Plastic navigational instruments",90
+"Plastic aeronautical instruments",90
+"Plastic automotive instruments",90
+"Plastic marine instruments",90
+"Plastic railway instruments",90
+"Plastic traffic control instruments",90
+"Plastic industrial process instruments",90
+"Plastic environmental monitoring instruments",90
+"Plastic safety instruments",90
+"Plastic security instruments",90
+"Plastic communication instruments",85
+"Plastic broadcasting equipment",85
+"Plastic telecommunications equipment",85
+"Plastic computer equipment",84
+"Plastic data processing equipment",84
+"Plastic office machines",84
+"Plastic accounting machines",84
+"Plastic cash registers",84
+"Plastic ticket machines",84
+"Plastic vending machines",84
+"Plastic automatic teller machines",84
+"Plastic gambling machines",95
+"Plastic arcade machines",95
+"Plastic pinball machines",95
+"Plastic slot machines",95
+"Plastic gaming machines",95
+"Plastic amusement machines",95
+"Plastic entertainment machines",95
+"Plastic recreational machines",95
+"Plastic sports machines",95
+"Plastic exercise machines",95
+"Plastic fitness machines",95
+"Plastic gym equipment",95
+"Plastic workout machines",95
+"Plastic training machines",95
+"Plastic rehabilitation machines",90
+"Plastic therapy machines",90
+"Plastic massage machines",90
+"Plastic beauty machines",90
+"Plastic hair styling machines",85
+"Plastic shaving machines",85
+"Plastic grooming machines",85
+"Plastic personal care machines",85
+"Plastic household machines",84
+"Plastic kitchen machines",84
+"Plastic food processing machines",84
+"Plastic beverage machines",84
+"Plastic cooking machines",84
+"Plastic cleaning machines",84
+"Plastic washing machines",84
+"Plastic drying machines",84
+"Plastic ironing machines",84
+"Plastic sewing machines",84
+"Plastic knitting machines",84
+"Plastic weaving machines",84
+"Plastic textile machines",84
+"Plastic leather machines",84
+"Plastic woodworking machines",84
+"Plastic metalworking machines",84
+"Plastic cutting machines",84
+"Plastic grinding machines",84
+"Plastic polishing machines",84
+"Plastic drilling machines",84
+"Plastic milling machines",84
+"Plastic turning machines",84
+"Plastic shaping machines",84
+"Plastic forming machines",84
+"Plastic molding machines",84
+"Plastic casting machines",84
+"Plastic forging machines",84
+"Plastic welding machines",84
+"Plastic soldering machines",84
+"Plastic brazing machines",84
+"Plastic riveting machines",84
+"Plastic screwing machines",84
+"Plastic nailing machines",84
+"Plastic stapling machines",84
+"Plastic gluing machines",84
+"Plastic adhesive machines",84
+"Plastic coating machines",84
+"Plastic painting machines",84
+"Plastic printing machines",84
+"Plastic copying machines",84
+"Plastic duplicating machines",84
+"Plastic binding machines",84
+"Plastic folding machines",84
+"Plastic cutting machines",84
+"Plastic perforating machines",84
+"Plastic punching machines",84
+"Plastic embossing machines",84
+"Plastic engraving machines",84
+"Plastic etching machines",84
+"Plastic marking machines",84
+"Plastic labeling machines",84
+"Plastic packaging machines",84
+"Plastic wrapping machines",84
+"Plastic sealing machines",84
+"Plastic closing machines",84
+"Plastic capping machines",84
+"Plastic bottling machines",84
+"Plastic canning machines",84
+"Plastic jarring machines",84
+"Plastic bagging machines",84
+"Plastic boxing machines",84
+"Plastic crating machines",84
+"Plastic palletizing machines",84
+"Plastic stacking machines",84
+"Plastic sorting machines",84
+"Plastic grading machines",84
+"Plastic screening machines",84
+"Plastic filtering machines",84
+"Plastic centrifuging machines",84
+"Plastic separating machines",84
+"Plastic mixing machines",84
+"Plastic blending machines",84
+"Plastic stirring machines",84
+"Plastic agitating machines",84
+"Plastic homogenizing machines",84
+"Plastic emulsifying machines",84
+"Plastic dispersing machines",84
+"Plastic grinding machines",84
+"Plastic crushing machines",84
+"Plastic pulverizing machines",84
+"Plastic milling machines",84
+"Plastic shredding machines",84
+"Plastic chopping machines",84
+"Plastic slicing machines",84
+"Plastic dicing machines",84
+"Plastic mincing machines",84
+"Plastic pureeing machines",84
+"Plastic juicing machines",84
+"Plastic pressing machines",84
+"Plastic squeezing machines",84
+"Plastic extracting machines",84
+"Plastic distilling machines",84
+"Plastic rectifying machines",84
+"Plastic fractionating machines",84
+"Plastic crystallizing machines",84
+"Plastic precipitating machines",84
+"Plastic filtering machines",84
+"Plastic centrifuging machines",84
+"Plastic evaporating machines",84
+"Plastic drying machines",84
+"Plastic dehydrating machines",84
+"Plastic freeze-drying machines",84
+"Plastic spray-drying machines",84
+"Plastic fluidized bed drying machines",84
+"Plastic vacuum drying machines",84
+"Plastic microwave drying machines",84
+"Plastic infrared drying machines",84
+"Plastic ultraviolet drying machines",84
+"Plastic electron beam drying machines",84
+"Plastic gamma ray drying machines",84
+"Plastic X-ray drying machines",84
+"Plastic ultrasonic drying machines",84
+"Plastic laser drying machines",84
+"Plastic plasma drying machines",84
+"Plastic corona drying machines",84
+"Plastic dielectric drying machines",84
+"Plastic induction drying machines",84
+"Plastic resistance drying machines",84
+"Plastic conduction drying machines",84
+"Plastic convection drying machines",84
+"Plastic radiation drying machines",84
+"Plastic solar drying machines",84
+"Plastic geothermal drying machines",84
+"Plastic waste heat drying machines",84
+"Plastic heat pump drying machines",84
+"Plastic heat recovery drying machines",84
+"Plastic energy efficient drying machines",84
+"Plastic low temperature drying machines",84
+"Plastic high temperature drying machines",84
+"Plastic continuous drying machines",84
+"Plastic batch drying machines",84
+"Plastic semi-continuous drying machines",84
+"Plastic intermittent drying machines",84
+"Plastic periodic drying machines",84
+"Plastic cyclic drying machines",84
+"Plastic oscillating drying machines",84
+"Plastic reciprocating drying machines",84
+"Plastic rotary drying machines",84
+"Plastic vibrating drying machines",84
+"Plastic shaking drying machines",84
+"Plastic tumbling drying machines",84
+"Plastic rolling drying machines",84
+"Plastic sliding drying machines",84
+"Plastic floating drying machines",84
+"Plastic suspended drying machines",84
+"Plastic fixed drying machines",84
+"Plastic mobile drying machines",84
+"Plastic portable drying machines",84
+"Plastic stationary drying machines",84
+"Plastic mounted drying machines",84
+"Plastic floor mounted drying machines",84
+"Plastic ceiling mounted drying machines",84
+"Plastic wall mounted drying machines",84
+"Plastic table top drying machines",84
+"Plastic bench top drying machines",84
+"Plastic laboratory drying machines",84
+"Plastic pilot plant drying machines",84
+"Plastic industrial drying machines",84
+"Plastic commercial drying machines",84
+"Plastic residential drying machines",84
+"Plastic agricultural drying machines",84
+"Plastic food drying machines",84
+"Plastic pharmaceutical drying machines",84
+"Plastic chemical drying machines",84
+"Plastic textile drying machines",84
+"Plastic paper drying machines",84
+"Plastic wood drying machines",84
+"Plastic metal drying machines",84
+"Plastic ceramic drying machines",84
+"Plastic glass drying machines",84
+"Plastic plastic drying machines",84
+"Plastic rubber drying machines",84
+"Plastic leather drying machines",84
+"Plastic fur drying machines",84
+"Plastic feather drying machines",84
+"Plastic hair drying machines",84
+"Plastic fiber drying machines",84
+"Plastic yarn drying machines",84
+"Plastic fabric drying machines",84
+"Plastic garment drying machines",84
+"Plastic footwear drying machines",84
+"Plastic headgear drying machines",84
+"Plastic umbrella drying machines",84
+"Plastic walking stick drying machines",84
+"Plastic whip drying machines",84
+"Plastic riding crop drying machines",84
+"Plastic artificial flower drying machines",84
+"Plastic artificial fruit drying machines",84
+"Plastic artificial foliage drying machines",84
+"Plastic artificial plant drying machines",84
+"Plastic artificial tree drying machines",84
+"Plastic artificial grass drying machines",84
+"Plastic artificial turf drying machines",84
+"Plastic artificial snow drying machines",84
+"Plastic artificial ice drying machines",84
+"Plastic artificial stone drying machines",84
+"Plastic artificial wood drying machines",84
+"Plastic artificial metal drying machines",84
+"Plastic artificial ceramic drying machines",84
+"Plastic artificial glass drying machines",84
+"Plastic artificial paper drying machines",84
+"Plastic artificial textile drying machines",84
+"Plastic artificial leather drying machines",84
+"Plastic artificial fur drying machines",84
+"Plastic artificial feather drying machines",84
+"Plastic artificial hair drying machines",84
+"Plastic artificial fiber drying machines",84
+"Plastic artificial yarn drying machines",84
+"Plastic artificial fabric drying machines",84
+"Plastic artificial garment drying machines",84
+"Plastic artificial footwear drying machines",84
+"Plastic artificial headgear drying machines",84
+"Plastic artificial umbrella drying machines",84
+"Plastic artificial walking stick drying machines",84
+"Plastic artificial whip drying machines",84
+"Plastic artificial riding crop drying machines",84
+"Plastic artificial flower arrangement drying machines",84
+"Plastic artificial fruit arrangement drying machines",84
+"Plastic artificial foliage arrangement drying machines",84
+"Plastic artificial plant arrangement drying machines",84
+"Plastic artificial tree arrangement drying machines",84
+"Plastic artificial grass arrangement drying machines",84
+"Plastic artificial turf arrangement drying machines",84
+"Plastic artificial snow arrangement drying machines",84
+"Plastic artificial ice arrangement drying machines",84
+"Plastic artificial stone arrangement drying machines",84
+"Plastic artificial wood arrangement drying machines",84
+"Plastic artificial metal arrangement drying machines",84
+"Plastic artificial ceramic arrangement drying machines",84
+"Plastic artificial glass arrangement drying machines",84
+"Plastic artificial paper arrangement drying machines",84
+"Plastic artificial textile arrangement drying machines",84
+"Plastic artificial leather arrangement drying machines",84
+"Plastic artificial fur arrangement drying machines",84
+"Plastic artificial feather arrangement drying machines",84
+"Plastic artificial hair arrangement drying machines",84
+"Plastic artificial fiber arrangement drying machines",84
+"Plastic artificial yarn arrangement drying machines",84
+"Plastic artificial fabric arrangement drying machines",84
+"Plastic artificial garment arrangement drying machines",84
+"Plastic artificial footwear arrangement drying machines",84
+"Plastic artificial headgear arrangement drying machines",84
+"Plastic artificial umbrella arrangement drying machines",84
+"Plastic artificial walking stick arrangement drying machines",84
+"Plastic artificial whip arrangement drying machines",84
+"Plastic artificial riding crop arrangement drying machines",84
+"Plastic artificial flower decoration drying machines",84
+"Plastic artificial fruit decoration drying machines",84
+"Plastic artificial foliage decoration drying machines",84
+"Plastic artificial plant decoration drying machines",84
+"Plastic artificial tree decoration drying machines",84
+"Plastic artificial grass decoration drying machines",84
+"Plastic artificial turf decoration drying machines",84
+"Plastic artificial snow decoration drying machines",84
+"Plastic artificial ice decoration drying machines",84
+"Plastic artificial stone decoration drying machines",84
+"Plastic artificial wood decoration drying machines",84
+"Plastic artificial metal decoration drying machines",84
+"Plastic artificial ceramic decoration drying machines",84
+"Plastic artificial glass decoration drying machines",84
+"Plastic artificial paper decoration drying machines",84
+"Plastic artificial textile decoration drying machines",84
+"Plastic artificial leather decoration drying machines",84
+"Plastic artificial fur decoration drying machines",84
+"Plastic artificial feather decoration drying machines",84
+"Plastic artificial hair decoration drying machines",84
+"Plastic artificial fiber decoration drying machines",84
+"Plastic artificial yarn decoration drying machines",84
+"Plastic artificial fabric decoration drying machines",84
+"Plastic artificial garment decoration drying machines",84
+"Plastic artificial footwear decoration drying machines",84
+"Plastic artificial headgear decoration drying machines",84
+"Plastic artificial umbrella decoration drying machines",84
+"Plastic artificial walking stick decoration drying machines",84
+"Plastic artificial whip decoration drying machines",84
+"Plastic artificial riding crop decoration drying machines",84
+"Plastic artificial flower ornament drying machines",84
+"Plastic artificial fruit ornament drying machines",84
+"Plastic artificial foliage ornament drying machines",84
+"Plastic artificial plant ornament drying machines",84
+"Plastic artificial tree ornament drying machines",84
+"Plastic artificial grass ornament drying machines",84
+"Plastic artificial turf ornament drying machines",84
+"Plastic artificial snow ornament drying machines",84
+"Plastic artificial ice ornament drying machines",84
+"Plastic artificial stone ornament drying machines",84
+"Plastic artificial wood ornament drying machines",84
+"Plastic artificial metal ornament drying machines",84
+"Plastic artificial ceramic ornament drying machines",84
+"Plastic artificial glass ornament drying machines",84
+"Plastic artificial paper ornament drying machines",84
+"Plastic artificial textile ornament drying machines",84
+"Plastic artificial leather ornament drying machines",84
+"Plastic artificial fur ornament drying machines",84
+"Plastic artificial feather ornament drying machines",84
+"Plastic artificial hair ornament drying machines",84
+"Plastic artificial fiber ornament drying machines",84
+"Plastic artificial yarn ornament drying machines",84
+"Plastic artificial fabric ornament drying machines",84
+"Plastic artificial garment ornament drying machines",84
+"Plastic artificial footwear ornament drying machines",84
+"Plastic artificial headgear ornament drying machines",84
+"Plastic artificial umbrella ornament drying machines",84
+"Plastic artificial walking stick ornament drying machines",84
+"Plastic artificial whip ornament drying machines",84
+"Plastic artificial riding crop ornament drying machines",84
+"Plastic artificial flower display drying machines",84
+"Plastic artificial fruit display drying machines",84
+"Plastic artificial foliage display drying machines",84
+"Plastic artificial plant display drying machines",84
+"Plastic artificial tree display drying machines",84
+"Plastic artificial grass display drying machines",84
+"Plastic artificial turf display drying machines",84
+"Plastic artificial snow display drying machines",84
+"Plastic artificial ice display drying machines",84
+"Plastic artificial stone display drying machines",84
+"Plastic artificial wood display drying machines",84
+"Plastic artificial metal display drying machines",84
+"Plastic artificial ceramic display drying machines",84
+"Plastic artificial glass display drying machines",84
+"Plastic artificial paper display drying machines",84
+"Plastic artificial textile display drying machines",84
+"Plastic artificial leather display drying machines",84
+"Plastic artificial fur display drying machines",84
+"Plastic artificial feather display drying machines",84
+"Plastic artificial hair display drying machines",84
+"Plastic artificial fiber display drying machines",84
+"Plastic artificial yarn display drying machines",84
+"Plastic artificial fabric display drying machines",84
+"Plastic artificial garment display drying machines",84
+"Plastic artificial footwear display drying machines",84
+"Plastic artificial headgear display drying machines",84
+"Plastic artificial umbrella display drying machines",84
+"Plastic artificial walking stick display drying machines",84
+"Plastic artificial whip display drying machines",84
+"Plastic artificial riding crop display drying machines",84
+"Plastic artificial flower exhibit drying machines",84
+"Plastic artificial fruit exhibit drying machines",84
+"Plastic artificial foliage exhibit drying machines",84
+"Plastic artificial plant exhibit drying machines",84
+"Plastic artificial tree exhibit drying machines",84
+"Plastic artificial grass exhibit drying machines",84
+"Plastic artificial turf exhibit drying machines",84
+"Plastic artificial snow exhibit drying machines",84
+"Plastic artificial ice exhibit drying machines",84
+"Plastic artificial stone exhibit drying machines",84
+"Plastic artificial wood exhibit drying machines",84
+"Plastic artificial metal exhibit drying machines",84
+"Plastic artificial ceramic exhibit drying machines",84
+"Plastic artificial glass exhibit drying machines",84
+"Plastic artificial paper exhibit drying machines",84
+"Plastic artificial textile exhibit drying machines",84
+"Plastic artificial leather exhibit drying machines",84
+"Plastic artificial fur exhibit drying machines",84
+"Plastic artificial feather exhibit drying machines",84
+"Plastic artificial hair exhibit drying machines",84
+"Plastic artificial fiber exhibit drying machines",84
+"Plastic artificial yarn exhibit drying machines",84
+"Plastic artificial fabric exhibit drying machines",84
+"Plastic artificial garment exhibit drying machines",84
+"Plastic artificial footwear exhibit drying machines",84
+"Plastic artificial headgear exhibit drying machines",84
+"Plastic artificial umbrella exhibit drying machines",84
+"Plastic artificial walking stick exhibit drying machines",84
+"Plastic artificial whip exhibit drying machines",84
+"Plastic artificial riding crop exhibit drying machines",84
+"Plastic artificial flower showcase drying machines",84
+"Plastic artificial fruit showcase drying machines",84
+"Plastic artificial foliage showcase drying machines",84
+"Plastic artificial plant showcase drying machines",84
+"Plastic artificial tree showcase drying machines",84
+"Plastic artificial grass showcase drying machines",84
+"Plastic artificial turf showcase drying machines",84
+"Plastic artificial snow showcase drying machines",84
+"Plastic artificial ice showcase drying machines",84
+"Plastic artificial stone showcase drying machines",84
+"Plastic artificial wood showcase drying machines",84
+"Plastic artificial metal showcase drying machines",84
+"Plastic artificial ceramic showcase drying machines",84
+"Plastic artificial glass showcase drying machines",84
+"Plastic artificial paper showcase drying machines",84
+"Plastic artificial textile showcase drying machines",84
+"Plastic artificial leather showcase drying machines",84
+"Plastic artificial fur showcase drying machines",84
+"Plastic artificial feather showcase drying machines",84
+"Plastic artificial hair showcase drying machines",84
+"Plastic artificial fiber showcase drying machines",84
+"Plastic artificial yarn showcase drying machines",84
+"Plastic artificial fabric showcase drying machines",84
+"Plastic artificial garment showcase drying machines",84
+"Plastic artificial footwear showcase drying machines",84
+"Plastic artificial headgear showcase drying machines",84
+"Plastic artificial umbrella showcase drying machines",84
+"Plastic artificial walking stick showcase drying machines",84
+"Plastic artificial whip showcase drying machines",84
+"Plastic artificial riding crop showcase drying machines",84
+"Plastic artificial flower presentation drying machines",84
+"Plastic artificial fruit presentation drying machines",84
+"Plastic artificial foliage presentation drying machines",84
+"Plastic artificial plant presentation drying machines",84
+"Plastic artificial tree presentation drying machines",84
+"Plastic artificial grass presentation drying machines",84
+"Plastic artificial turf presentation drying machines",84
+"Plastic artificial snow presentation drying machines",84
+"Plastic artificial ice presentation drying machines",84
+"Plastic artificial stone presentation drying machines",84
+"Plastic artificial wood presentation drying machines",84
+"Plastic artificial metal presentation drying machines",84
+"Plastic artificial ceramic presentation drying machines",84
+"Plastic artificial glass presentation drying machines",84
+"Plastic artificial paper presentation drying machines",84
+"Plastic artificial textile presentation drying machines",84
+"Plastic artificial leather presentation drying machines",84
+"Plastic artificial fur presentation drying machines",84
+"Plastic artificial feather presentation drying machines",84
+"Plastic artificial hair presentation drying machines",84
+"Plastic artificial fiber presentation drying machines",84
+"Plastic artificial yarn presentation drying machines",84
+"Plastic artificial fabric presentation drying machines",84
+"Plastic artificial garment presentation drying machines",84
+"Plastic artificial footwear presentation drying machines",84
+"Plastic artificial headgear presentation drying machines",84
+"Plastic artificial umbrella presentation drying machines",84
+"Plastic artificial walking stick presentation drying machines",84
+"Plastic artificial whip presentation drying machines",84
+"Plastic artificial riding crop presentation drying machines",84
+"Plastic artificial flower demonstration drying machines",84
+"Plastic artificial fruit demonstration drying machines",84
+"Plastic artificial foliage demonstration drying machines",84
+"Plastic artificial plant demonstration drying machines",84
+"Plastic artificial tree demonstration drying machines",84
+"Plastic artificial grass demonstration drying machines",84
+"Plastic artificial turf demonstration drying machines",84
+"Plastic artificial snow demonstration drying machines",84
+"Plastic artificial ice demonstration drying machines",84
+"Plastic artificial stone demonstration drying machines",84
+"Plastic artificial wood demonstration drying machines",84
+"Plastic artificial metal demonstration drying machines",84
+"Plastic artificial ceramic demonstration drying machines",84
+"Plastic artificial glass demonstration drying machines",84
+"Plastic artificial paper demonstration drying machines",84
+"Plastic artificial textile demonstration drying machines",84
+"Plastic artificial leather demonstration drying machines",84
+"Plastic artificial fur demonstration drying machines",84
+"Plastic artificial feather demonstration drying machines",84
+"Plastic artificial hair demonstration drying machines",84
+"Plastic artificial fiber demonstration drying machines",84
+"Plastic artificial yarn demonstration drying machines",84
+"Plastic artificial fabric demonstration drying machines",84
+"Plastic artificial garment demonstration drying machines",84
+"Plastic artificial footwear demonstration drying machines",84
+"Plastic artificial headgear demonstration drying machines",84
+"Plastic artificial umbrella demonstration drying machines",84
+"Plastic artificial walking stick demonstration drying machines",84
+"Plastic artificial whip demonstration drying machines",84
+"Plastic artificial riding crop demonstration drying machines",84
+"Plastic artificial flower performance drying machines",84
+"Plastic artificial fruit performance drying machines",84
+"Plastic artificial foliage performance drying machines",84
+"Plastic artificial plant performance drying machines",84
+"Plastic artificial tree performance drying machines",84
+"Plastic artificial grass performance drying machines",84
+"Plastic artificial turf performance drying machines",84
+"Plastic artificial snow performance drying machines",84
+"Plastic artificial ice performance drying machines",84
+"Plastic artificial stone performance drying machines",84
+"Plastic artificial wood performance drying machines",84
+"Plastic artificial metal performance drying machines",84
+"Plastic artificial ceramic performance drying machines",84
+"Plastic artificial glass performance drying machines",84
+"Plastic artificial paper performance drying machines",84
+"Plastic artificial textile performance drying machines",84
+"Plastic artificial leather performance drying machines",84
+"Plastic artificial fur performance drying machines",84
+"Plastic artificial feather performance drying machines",84
+"Plastic artificial hair performance drying machines",84
+"Plastic artificial fiber performance drying machines",84
+"Plastic artificial yarn performance drying machines",84
+"Plastic artificial fabric performance drying machines",84
+"Plastic artificial garment performance drying machines",84
+"Plastic artificial footwear performance drying machines",84
+"Plastic artificial headgear performance drying machines",84
+"Plastic artificial umbrella performance drying machines",84
+"Plastic artificial walking stick performance drying machines",84
+"Plastic artificial whip performance drying machines",84
+"Plastic artificial riding crop performance drying machines",84
+"Plastic artificial flower production drying machines",84
+"Plastic artificial fruit production drying machines",84
+"Plastic artificial foliage production drying machines",84
+"Plastic artificial plant production drying machines",84
+"Plastic artificial tree production drying machines",84
+"Plastic artificial grass production drying machines",84
+"Plastic artificial turf production drying machines",84
+"Plastic artificial snow production drying machines",84
+"Plastic artificial ice production drying machines",84
+"Plastic artificial stone production drying machines",84
+"Plastic artificial wood production drying machines",84
+"Plastic artificial metal production drying machines",84
+"Plastic artificial ceramic production drying machines",84
+"Plastic artificial glass production drying machines",84
+"Plastic artificial paper production drying machines",84
+"Plastic artificial textile production drying machines",84
+"Plastic artificial leather production drying machines",84
+"Plastic artificial fur production drying machines",84
+"Plastic artificial feather production drying machines",84
+"Plastic artificial hair production drying machines",84
+"Plastic artificial fiber production drying machines",84
+"Plastic artificial yarn production drying machines",84
+"Plastic artificial fabric production drying machines",84
+"Plastic artificial garment production drying machines",84
+"Plastic artificial footwear production drying machines",84
+"Plastic artificial headgear production drying machines",84
+"Plastic artificial umbrella production drying machines",84
+"Plastic artificial walking stick production drying machines",84
+"Plastic artificial whip production drying machines",84
+"Plastic artificial riding crop production drying machines",84
+"Plastic artificial flower manufacturing drying machines",84
+"Plastic artificial fruit manufacturing drying machines",84
+"Plastic artificial foliage manufacturing drying machines",84
+"Plastic artificial plant manufacturing drying machines",84
+"Plastic artificial tree manufacturing drying machines",84
+"Plastic artificial grass manufacturing drying machines",84
+"Plastic artificial turf manufacturing drying machines",84
+"Plastic artificial snow manufacturing drying machines",84
+"Plastic artificial ice manufacturing drying machines",84
+"Plastic artificial stone manufacturing drying machines",84
+"Plastic artificial wood manufacturing drying machines",84
+"Plastic artificial metal manufacturing drying machines",84
+"Plastic artificial ceramic manufacturing drying machines",84
+"Plastic artificial glass manufacturing drying machines",84
+"Plastic artificial paper manufacturing drying machines",84
+"Plastic artificial textile manufacturing drying machines",84
+"Plastic artificial leather manufacturing drying machines",84
+"Plastic artificial fur manufacturing drying machines",84
+"Plastic artificial feather manufacturing drying machines",84
+"Plastic artificial hair manufacturing drying machines",84
+"Plastic artificial fiber manufacturing drying machines",84
+"Plastic artificial yarn manufacturing drying machines",84
+"Plastic artificial fabric manufacturing drying machines",84
+"Plastic artificial garment manufacturing drying machines",84
+"Plastic artificial footwear manufacturing drying machines",84
+"Plastic artificial headgear manufacturing drying machines",84
+"Plastic artificial umbrella manufacturing drying machines",84
+"Plastic artificial walking stick manufacturing drying machines",84
+"Plastic artificial whip manufacturing drying machines",84
+"Plastic artificial riding crop manufacturing drying machines",84
+"Plastic artificial flower processing drying machines",84
+"Plastic artificial fruit processing drying machines",84
+"Plastic artificial foliage processing drying machines",84
+"Plastic artificial plant processing drying machines",84
+"Plastic artificial tree processing drying machines",84
+"Plastic artificial grass processing drying machines",84
+"Plastic artificial turf processing drying machines",84
+"Plastic artificial snow processing drying machines",84
+"Plastic artificial ice processing drying machines",84
+"Plastic artificial stone processing drying machines",84
+"Plastic artificial wood processing drying machines",84
+"Plastic artificial metal processing drying machines",84
+"Plastic artificial ceramic processing drying machines",84
+"Plastic artificial glass processing drying machines",84
+"Plastic artificial paper processing drying machines",84
+"Plastic artificial textile processing drying machines",84
+"Plastic artificial leather processing drying machines",84
+"Plastic artificial fur processing drying machines",84
+"Plastic artificial feather processing drying machines",84
+"Plastic artificial hair processing drying machines",84
+"Plastic artificial fiber processing drying machines",84
+"Plastic artificial yarn processing drying machines",84
+"Plastic artificial fabric processing drying machines",84
+"Plastic artificial garment processing drying machines",84
+"Plastic artificial footwear processing drying machines",84
+"Plastic artificial headgear processing drying machines",84
+"Plastic artificial umbrella processing drying machines",84
+"Plastic artificial walking stick processing drying machines",84
+"Plastic artificial whip processing drying machines",84
+"Plastic artificial riding crop processing drying machines",84
+"wooden kitchenware",44
+"wooden spoon",44
+"wooden spatula",44
+"wooden salad bowl",44
+"wooden kitchen utensil",44
+"wooden cutting board",44
+"wooden ladle",44
+"wooden rolling pin",44

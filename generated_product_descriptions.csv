@@ -1,0 +1,334 @@
+description,hs_code
+live live,01
+live animals,01
+live animal,01
+animals animal,01
+live livestock,01
+animals livestock,01
+live live for breeding,01
+live animals for breeding,01
+meat meat,02
+fresh meat,02
+frozen meat,02
+meat cuts,02
+meat products,02
+fish fish,03
+fresh fish,03
+frozen fish,03
+fish fillets,03
+fish seafood,03
+diary milk,04
+products milk,04
+diary dairy,04
+products dairy,04
+diary cheese,04
+products cheese,04
+diary butter,04
+products butter,04
+diary cream,04
+products cream,04
+animal products,05
+products products,05
+animal materials,05
+products materials,05
+animal byproducts,05
+products byproducts,05
+animal waste,05
+products waste,05
+plants plants,06
+live plants,06
+plants seedlings,06
+plants flowers,06
+vegetables vegetables,07
+fresh vegetables,07
+organic vegetables,07
+vegetables produce,07
+fruits fruits,08
+and fruits,08
+nuts fruits,08
+fresh fruits,08
+fresh and,08
+fresh nuts,08
+fruits nuts,08
+and nuts,08
+nuts nuts,08
+fruits produce,08
+and produce,08
+nuts produce,08
+"coffee, coffee",09
+tea coffee,09
+and coffee,09
+spices coffee,09
+"coffee, tea",09
+tea tea,09
+and tea,09
+spices tea,09
+"coffee, spices",09
+tea spices,09
+and spices,09
+spices spices,09
+"coffee, beans",09
+tea beans,09
+and beans,09
+spices beans,09
+cereals cereals,10
+cereals grains,10
+cereals wheat,10
+cereals rice,10
+"Flours, starches and malts",11
+Oil seeds and oleaginous fruits,12
+Lac and other vegetable extracts,13
+Other vegetable materials,14
+animal oil,15
+vegetable oil,15
+"fats, oil",15
+oils oil,15
+waxes oil,15
+animal fats,15
+vegetable fats,15
+"fats, fats",15
+oils fats,15
+waxes fats,15
+animal cooking oil,15
+vegetable cooking oil,15
+"fats, cooking oil",15
+oils cooking oil,15
+waxes cooking oil,15
+animal vegetable oil,15
+vegetable vegetable oil,15
+"fats, vegetable oil",15
+oils vegetable oil,15
+waxes vegetable oil,15
+preparations preparations,16
+meat preparations,16
+fish preparations,16
+preparations products,16
+meat products,16
+fish products,16
+canned preparations,16
+canned meat,16
+canned fish,16
+preparations food,16
+meat food,16
+fish food,16
+Sugar and candy,17
+Cocoa,18
+preparations preparations,19
+"cereals, preparations",19
+"flour, preparations",19
+starch preparations,19
+milk preparations,19
+preparations food,19
+"cereals, food",19
+"flour, food",19
+starch food,19
+milk food,19
+preparations products,19
+"cereals, products",19
+"flour, products",19
+starch products,19
+milk products,19
+preparations ingredients,19
+"cereals, ingredients",19
+"flour, ingredients",19
+starch ingredients,19
+milk ingredients,19
+"Preparations of vegetables, fruit, or nuts",20
+Miscellaneous edible preparations,21
+beverages beverages,22
+beverages drinks,22
+beverages juice,22
+beverages water,22
+Food residues and animal feed,23
+Tobacco,24
+"Salt, sulphur, lime, cement, etc.",25
+"Ores, slag and ash",26
+"Mineral fuels, oils and waxes",27
+Inorganic chemicals,28
+Organic chemicals,29
+pharmaceutical medicine,30
+products medicine,30
+pharmaceutical tablets,30
+products tablets,30
+pharmaceutical capsules,30
+products capsules,30
+pharmaceutical pharmaceutical,30
+products pharmaceutical,30
+Fertilisers,31
+"Dyes, paints, inks, etc.",32
+Essential oils,33
+"Soaps, waxes, and paints",34
+Albuminoidals; modified starches; glues; enzymes,35
+Explosives,36
+Photographic or cinematographic goods,37
+Miscellaneous chemical products,38
+Plastics,39
+rubber rubber,40
+rubber products,40
+rubber materials,40
+rubber goods,40
+Leather and skins,41
+articles leather,42
+leather leather,42
+articles bag,42
+leather bag,42
+articles wallet,42
+leather wallet,42
+articles accessories,42
+leather accessories,42
+Furskins,43
+Wood,44
+Cork,45
+Manufactues of plaiting materials,46
+Pulp of wood,47
+Paper and paperboard,48
+products books,49
+the books,49
+printing books,49
+industry books,49
+products publications,49
+the publications,49
+printing publications,49
+industry publications,49
+products printed,49
+the printed,49
+printing printed,49
+industry printed,49
+products materials,49
+the materials,49
+printing materials,49
+industry materials,49
+Silk,50
+Wool,51
+Cotton,52
+Other vegetable textile fibres,53
+Man-made filaments,54
+Man-made staple fibres,55
+"Wadding, felt and nonwovens",56
+carpets carpets,57
+carpets rugs,57
+carpets textiles,57
+carpets fabrics,57
+Special woven fabrics,58
+"Impregnated, coated or laminated textile fabrics",59
+Knitted fabrics,60
+"apparel, clothing",61
+knit clothing,61
+"apparel, apparel",61
+knit apparel,61
+"apparel, garments",61
+knit garments,61
+"apparel, wear",61
+knit wear,61
+"Apparel, not knit",62
+other textiles,63
+made textiles,63
+textile textiles,63
+articles textiles,63
+other fabrics,63
+made fabrics,63
+textile fabrics,63
+articles fabrics,63
+other materials,63
+made materials,63
+textile materials,63
+articles materials,63
+other goods,63
+made goods,63
+textile goods,63
+articles goods,63
+footwear shoes,64
+footwear footwear,64
+footwear boots,64
+footwear sandals,64
+Headgear,65
+Umbrellas and walking-sticks,66
+Feathers and down,67
+"Articles of stone, plaster, cement, etc.",68
+ceramic ceramics,69
+products ceramics,69
+ceramic pottery,69
+products pottery,69
+ceramic dishes,69
+products dishes,69
+ceramic plates,69
+products plates,69
+Glass and glassware,70
+Precious metals and stones,71
+Iron and steel,72
+Articles of iron or steel,73
+Copper,74
+Nickel,75
+Aluminium,76
+Lead,78
+Zinc,79
+Tin,80
+Other base metals,81
+metal tools,82
+tools tools,82
+and tools,82
+tableware tools,82
+metal equipment,82
+tools equipment,82
+and equipment,82
+tableware equipment,82
+metal instruments,82
+tools instruments,82
+and instruments,82
+tableware instruments,82
+metal hardware,82
+tools hardware,82
+and hardware,82
+tableware hardware,82
+Miscellaneous articles of base metal,83
+industrial machinery,84
+machinery machinery,84
+industrial equipment,84
+machinery equipment,84
+industrial devices,84
+machinery devices,84
+industrial systems,84
+machinery systems,84
+electrical electronics,85
+machinery electronics,85
+and electronics,85
+equipment electronics,85
+electrical electrical,85
+machinery electrical,85
+and electrical,85
+equipment electrical,85
+electrical devices,85
+machinery devices,85
+and devices,85
+equipment devices,85
+electrical equipment,85
+machinery equipment,85
+and equipment,85
+equipment equipment,85
+Trains,86
+Vehicles,87
+Aircraft,88
+Ships,89
+"Apparatuses (optical, medical, etc.)",90
+clocks clocks,91
+clocks watches,91
+clocks timepieces,91
+clocks instruments,91
+Musical instruments,92
+Arms and ammunition,93
+furniture furniture,94
+furniture tables,94
+furniture chairs,94
+furniture cabinets,94
+toys toys,95
+toys games,95
+toys entertainment,95
+toys products,95
+Miscellaneous manufactured articles,96
+Art,97
+Other,99
+Unspecified,unspecified
+Travel and tourism,travel
+Transport,transport
+ICT,ict
+Insurance and finance,financial

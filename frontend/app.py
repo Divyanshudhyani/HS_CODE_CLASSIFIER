@@ -18,10 +18,15 @@ if st.button("Predict"):
             res = requests.post(f"{BACKEND_URL}/predict", json={"description": desc})
             if res.ok:
                 data = res.json()
-                # Display the new category field from the backend response
                 st.success(f"Predicted HS Code: {data['predicted_hs_code']}")
                 st.info(f"Product Category: {data['predicted_hs_category']}")
                 st.info(f"Confidence: {data['confidence']:.2f}")
+                # Warn if input is too generic
+                if len(desc.strip().split()) < 2:
+                    st.warning("Please enter a more detailed product description for better results (e.g., 'plastic toy car', 'plastic water bottle').")
+                # Warn if confidence is low
+                if 'confidence' in data and data['confidence'] < 0.3:
+                    st.warning("The model is not confident in this prediction. Please provide a more specific product description for higher accuracy.")
             else:
                 st.error(f"Prediction failed: {res.json().get('error', 'Unknown error')}")
         except requests.exceptions.ConnectionError:
@@ -55,3 +60,6 @@ if uploaded_file:
         st.error("Could not connect to the backend. Please ensure the backend is running.")
     except Exception as e:
         st.error(f"An unexpected error occurred during bulk upload: {e}")
+
+# Add a tip for best results
+st.info("Tip: For best results, enter a full product description (e.g., 'plastic garden chair', 'leather wallet brown', 'LED television 55 inch').")
